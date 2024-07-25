@@ -72,6 +72,12 @@ Add the following permissions to your AndroidManifest.xml:
 <uses-permission android:name="android.permission.VIBRATE"/>
 ```
 
+5. ## Set up Microbit Code
+
+Below is a link to my Code, it is important to understand the concepts of it and how it integrates and works with the Kotlin application, download and add this code to your microbit IDE:
+
+https://makecode.microbit.org/S19893-69610-13178-56347
+
 <h2 align="left" id="tech-stack">Technology Stack</h2>
 
 > Tools and languages used.
