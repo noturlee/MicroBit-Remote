@@ -156,3 +156,13 @@ Ensure the MacQueen Plus v2 robot is connected to your WiFi network. The robot s
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+<br>
+<br>
+
+<div align = center>
+
+<img src="https://github.com/user-attachments/assets/5e004f5a-037f-419c-b561-a0bbd01458d5" alt="image" width="350" height="300">
+
+</div>
+
+
