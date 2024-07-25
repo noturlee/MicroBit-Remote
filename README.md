@@ -135,11 +135,11 @@ Ensure the MacQueen Plus v2 robot is connected to your WiFi network. The robot s
 
 | Phase       | Description                                  | Target Date     |
 |-------------|----------------------------------------------|-----------------|
-| **Phase 1** | Initial Development and Setup                | August 2024     |
-| **Phase 2** | Core Features Implementation                 | September 2024  |
-| **Phase 3** | Testing and Debugging                        | October 2024    |
-| **Phase 4** | Final Review and Release                     | November 2024   |
-| **Phase 5** | Post-Release Support and Updates             | December 2024   |
+| **Phase 1** | Initial Development and Setup                | July 2024     |
+| **Phase 2** | Core Features Implementation                 | July 2024  |
+| **Phase 3** | Testing and Debugging                        | August 2024    |
+| **Phase 4** | Final Review and Release                     | September 2024   |
+| **Phase 5** | Post-Release Support and Updates             | September 2024   |
 
 
 ## License
