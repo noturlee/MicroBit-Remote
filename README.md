@@ -118,7 +118,7 @@ Build and run the app on your Android device.
 
 ## Setup the MacQueen Plus v2 Robot
 
-Ensure the MacQueen Plus v2 robot is connected to your WiFi network. The robot should be reachable at http://192.168.4.1/. Adjust the baseUrl in MainActivity if your robot's IP address is different.
+Ensure the MacQueen Plus v2 robot is connected to the WiFi network. The robot should be reachable at http://192.168.4.1/. Adjust the baseUrl in MainActivity if your robot's IP address is different, The wifi SSID for my code is ``Spaza-Wifi`` and the Password is ``I am speed``
 
 ## Code Explanation
 
