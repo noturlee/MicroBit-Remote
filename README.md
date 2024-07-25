@@ -1,6 +1,10 @@
 ![Beige Feminine Personal LinkedIn Banner](https://github.com/user-attachments/assets/4ee689c7-f531-4a4d-8e42-962a65730d15)
 
+<div align =center>
+   
 # MacQueen Remote Control App
+
+</div>
 
 ## Table of Contents
 
