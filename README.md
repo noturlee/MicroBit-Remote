@@ -112,7 +112,7 @@ https://makecode.microbit.org/S19893-69610-13178-56347
 </table>
 
 
-5. **Build and Run**
+6. **Build and Run**
 
 Build and run the app on your Android device.
 
