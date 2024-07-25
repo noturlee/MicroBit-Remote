@@ -1,4 +1,4 @@
-![Beige Feminine Personal LinkedIn Banner](https://github.com/user-attachments/assets/4ee689c7-f531-4a4d-8e42-962a65730d15)
+![banner](https://github.com/user-attachments/assets/450a3c1c-e9cf-486c-9ed9-895174021d09)
 
 <div align =center>
    
