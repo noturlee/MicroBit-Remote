@@ -161,8 +161,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 <div align = center>
 
-<img src="https://github.com/user-attachments/assets/5e004f5a-037f-419c-b561-a0bbd01458d5" alt="image" width="350" height="300">
+# Happy Coding
+<img src="https://camo.githubusercontent.com/be266d8f416b6a6033d379d1db81f5867b356655f92a11c9a6ee36fe4b0d2824/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a68595356436972524565495a744f4e43492f67697068792e676966" alt="image" width="350" height="300">
 
 </div>
+
 
 
